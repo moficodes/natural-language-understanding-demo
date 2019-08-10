@@ -76,11 +76,25 @@ naturalLanguageUnderstanding
 
 And thats all. Lets run it.
 
-In the terminal \(for CodeSandBox it will run on save\)
+In the terminal \(for CodeSandBox it will run on save you can also add a new terminal tab and run manually\).
 
+{% tabs %}
+{% tab title="NodeJS / Katacoda" %}
 ```text
 node index.js
 ```
+{% endtab %}
+
+{% tab title="CodeSandBox" %}
+If run automatically on save \(by use of ndoemon\) Do nothing.
+
+If run manually
+
+```text
+node src/index.js
+```
+{% endtab %}
+{% endtabs %}
 
 This is the output.
 
