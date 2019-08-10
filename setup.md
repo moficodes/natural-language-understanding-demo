@@ -1,7 +1,5 @@
 # Setup
 
-
-
 Before you get started on working with Watson you will need to sign up for IBM Cloud ,
 
 ## Getting Started with IBM Cloud <a id="getting-started-with-ibm-cloud"></a>

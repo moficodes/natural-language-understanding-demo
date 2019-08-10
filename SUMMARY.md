@@ -7,6 +7,7 @@
 * [Natural Language Classifier](natural-language-classifier.md)
 * [Discovery](discovery.md)
 * [Workshop](workshop/README.md)
+  * [Setup](workshop/setup.md)
   * [Watson NLU](workshop/watson-nlu.md)
   * [Watson Tone Analyzer](workshop/watson-tone-analyzer.md)
 
