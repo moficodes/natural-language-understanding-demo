@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Natural Language Understanding](README.md)
+* [Setup](setup.md)
 
