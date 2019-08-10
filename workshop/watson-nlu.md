@@ -8,7 +8,7 @@
 
 * Once the service is created. From the mage tab we can find the URL and API Key.
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 We will need that in the next stop.
 

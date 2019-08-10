@@ -60,7 +60,7 @@ Click on Add Dependency
 
 Search for `ibm-watson` Click to install
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 You can skip to the next page now.
 {% endtab %}

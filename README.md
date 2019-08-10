@@ -4,7 +4,7 @@ We are producing more data every day than we know what to do with. Most of these
 
 ### How Much Data Do We Produce
 
-![src: Visual Captalist](.gitbook/assets/image%20%281%29.png)
+![src: Visual Captalist](.gitbook/assets/image%20%283%29.png)
 
 To say we generate a lot of data is an understatement. In the last couple of years we produced 90% of the worlds data. 
 
