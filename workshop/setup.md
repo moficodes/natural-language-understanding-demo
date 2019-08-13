@@ -2,7 +2,7 @@
 
 This workshop we use node.
 
- You have one of 3 choices. 
+You have one of 3 choices.
 
 1. Install Node \(Or already have that installed\)
 2. Use CodeSandBox A web IDE for JS projects.
@@ -36,7 +36,7 @@ With that we are good to go.
 {% endtab %}
 
 {% tab title="CodeSandBox" %}
-Go to [codesandbox.io](https://codesandbox.io) 
+Go to [codesandbox.io](https://codesandbox.io)
 
 Signin with your github account.
 
@@ -48,9 +48,9 @@ Click on Create Sandbox
 
 Select Node.
 
-This will setup a NodeJS server program. We don't much care for it. 
+This will setup a NodeJS server program. We don't much care for it.
 
-Delete the content of the index.js file. We will fill it up later. 
+Delete the content of the index.js file. We will fill it up later.
 
 > If you see the web browser crash dont worry. We got rid of the server code. Its supposed to fail.
 
@@ -77,8 +77,6 @@ This gives you a terminal and a file view
 We will use this terminal to run our commands.
 {% endtab %}
 {% endtabs %}
-
-
 
 If you chose to use CodeSandBox a npm project with a package.json is already setup. But for the other two cases we will have to setup a npm project.
 

@@ -259,5 +259,3 @@ This is the output.
 }
 ```
 
-
-

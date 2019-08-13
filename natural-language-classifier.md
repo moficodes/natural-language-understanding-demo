@@ -25,9 +25,7 @@ With Natural Language Classifier, the data is yours to parse and categorize.
 
 ## [Demo](https://natural-language-classifier-demo.ng.bluemix.net/)
 
-This is what the demo was trained on. 
+This is what the demo was trained on.
 
 {% file src=".gitbook/assets/weather\_data\_train.csv" %}
-
-## 
 

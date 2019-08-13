@@ -25,5 +25,3 @@ US Health Insurance Portability and Accountability Act \(HIPAA\) support is avai
 
 ## [Demo](https://discovery-news-demo.ng.bluemix.net/)
 
-
-
